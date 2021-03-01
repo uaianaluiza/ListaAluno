@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum Aluno {
+public enum Aluno {
+    ANA,
+    KASSYO,
+    TAYNARA;
 }
